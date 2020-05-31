@@ -1,0 +1,4 @@
+O usuário pratprog  tentou login mas sem sucesso
+
+Login ou senha inválida!
+29/05/2020 21:21:34
